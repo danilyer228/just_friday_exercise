@@ -1,7 +1,7 @@
-# php skelleton
+# just friday exercise
 Skelleton for write high quality php application
 
-![GitHub CI](https://github.com/otis22/php-skelleton/workflows/CI/badge.svg)
+![GitHub CI](https://github.com/DaHuJI/just_friday_exercise/workflows/CI/badge.svg)
 ![Travis CI](https://api.travis-ci.org/otis22/php-skelleton.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/otis22/php-skelleton/badge.svg?branch=master)](https://coveralls.io/github/otis22/php-skelleton?branch=master)
 
